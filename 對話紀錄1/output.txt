@@ -1,0 +1,8 @@
+Allen: 哈囉
+Allen: 你好
+Tom: 你好
+Tom: 今天一樣是買三份雞肉飯嗎?
+Allen: 對
+Allen: 飲料一樣紅茶
+Tom: 半糖去冰對不對
+Allen: 對，謝謝，我十分鐘後到
